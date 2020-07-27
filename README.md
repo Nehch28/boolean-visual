@@ -6,6 +6,6 @@ The puzzle essentially converts boolean formulas into visual stimuli as a predef
  INPUT: name of subject
  OUTPUT: .mat file with saved data
 
-#Files for creating the visual: main_circle, get_matrix_uniform, plot_circle, middle_circle_keyboard, solution3, solution_make
+#Files for creating the visual: main_circle, get_matrix_uniform, plot_circle, middle_circle_keyboard, solution3, solutionmake
 
 #Setters and getters for global variables of colors
